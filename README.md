@@ -50,8 +50,10 @@ Wait till the web application is running in your browser on this http://localhos
 
 <img src="Docs/screenshots/screenshot-1.png" width="80%" />
 <img src="Docs/screenshots/screenshot-2.png" width="80%" />
-<img src="Docs/screenshots/screenshot-3.png" width="30%" />
-<img src="Docs/screenshots/screenshot-4.png" width="30%" />
+<div style={{ display: 'flex' }}>
+    <img src="Docs/screenshots/screenshot-3.png" width="30%"/>
+    <img src="Docs/screenshots/screenshot-4.png" width="30%" />
+</div>
 
 ## Built With
 
